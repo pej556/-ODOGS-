@@ -311,7 +311,7 @@ main .best .best_box .best_txt .best_txt_inner h2 {
   margin-bottom: 14px;
 }
 main .best .best_box .best_txt .best_txt_inner span {
-  font-size: 18px;
+  font-size: 15px;
   color: #787878;
   font-weight: 500;
 }
@@ -477,7 +477,7 @@ main .new .new_box .new_item li .new_txt .new_txt_inner h3 {
 main .new .new_box .new_item li .new_txt .new_txt_inner span {
   color: #787878;
   font-weight: 600;
-  font-size: 18px;
+  font-size: 15px;
 }
 main .new .new_box .new_item li .new_txt .new_txt_inner dl {
   display: flex;
@@ -488,7 +488,6 @@ main .new .new_box .new_item li .new_txt .new_txt_inner dl {
 main .new .new_box .new_item li .new_txt .new_txt_inner dl dt {
   font-size: 25px;
   font-weight: 700;
-  color: #FFA62F;
 }
 main .new .new_box .new_item li .new_txt .new_txt_inner dl dd {
   font-size: 18px;
